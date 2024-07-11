@@ -58,7 +58,7 @@
         "editor.selection.background": null,
         "editor.gutter.background": "#151515",
         "editor.subheader.background": null,
-        "editor.active_line.background": "#202020",
+        "editor.active_line.background": "#181818",
         "editor.highlighted_line.background": null,
         "editor.line_number": "#484848",
         "editor.active_line_number": "#abb2bf",
@@ -218,7 +218,7 @@
           },
           "keyword": {
             "color": "#C586C0",
-            "font_style": null,
+            "font_style": "italic",
             "font_weight": null
           },
           "number": {
@@ -302,9 +302,9 @@
             "font_weight": null
           },
           "type": {
-            "color": "#4ec9b0",
+            "color": "#569cd6",
             "font_style": null,
-            "font_weight": null
+            "font_weight": 500
           },
           "variable": {
             "color": "#9cdcfe",

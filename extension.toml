@@ -1,0 +1,7 @@
+id = "reactive-light-theme"
+name = "Reactive Light Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Ramiro Lugo <ramirolugov@gmail.com>"]
+description = "Reactive Light is a theme for Zed"
+repository = "https://github.com/..."

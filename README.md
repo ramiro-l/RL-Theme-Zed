@@ -1,6 +1,6 @@
 # Reactive Light Theme for ZED
 
-This is a light theme for the ZED text editor.
+This is a Reactive Light theme for the ZED text editor.
 
 ## Preview
 
